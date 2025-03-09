@@ -6,6 +6,8 @@ The focus of extended prime studies is to analyze how the selection of the first
 
 This theory was conceived by the owner of this repository as an original exploration into prime number behavior. It aims to provide a broader perspective on number theory by investigating how prime distributions evolve under modified initial conditions.
 
+(this theory also falls under the open-source MIT license.)
+
 # Extended Prime
 
 Extended Prime is a Python project that generates and visualizes prime numbers starting from various initial values. The project includes:
