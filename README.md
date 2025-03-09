@@ -1,3 +1,11 @@
+# **Extended Prime Theory**  
+
+Extended prime numbers are a class of numbers derived from traditional prime numbers. While prime numbers are only divisible by 1 and themselves, extended primes expand on this concept by allowing additional divisors such as 2, 3, 4, 5, and so on.  
+
+The focus of extended prime studies is to analyze how the selection of the first prime number influences the formation of new prime-like sequences. By varying the starting value, different sets of numbers qualify as primes within these new classes, leading to unique patterns and insights into number properties.  
+
+This theory was conceived by the owner of this repository as an original exploration into prime number behavior. It aims to provide a broader perspective on number theory by investigating how prime distributions evolve under modified initial conditions.
+
 # Extended Prime
 
 Extended Prime is a Python project that generates and visualizes prime numbers starting from various initial values. The project includes:
