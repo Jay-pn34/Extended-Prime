@@ -5,13 +5,14 @@ data = []
 
 start_1 = 2
 end_1 = 100
+end_2 = 500
 
 # Loop through start values from 2 to 100
 for start in range(start_1, end_1):
     primes = []
 
     # Find prime numbers from start to 100
-    for i in range(start, end_1):
+    for i in range(start, end_2):
     #for i in range(start, end_1):
         for j in range(start, i):
             if i % j == 0:
